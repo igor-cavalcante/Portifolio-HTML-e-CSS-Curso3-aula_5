@@ -3,7 +3,7 @@
 :root {
     --cor-primaria: #1a1a1a; /* Cor de fundo principal (preto) */
     --cor-secundaria: #f6f6f6; /* Cor do texto (branco) */
-    --cor-terciaria: #8a2be2; /* Cor roxa para destaque */
+    --cor-terciaria: #fe8330; /* Cor roxa para destaque  #8a2be2*/
     --cor-hover: #272727; /* Cor de fundo ao passar o mouse */
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
